@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../schema.json
+chainId: 1313161574
+displayName: Crynux on Near
+domainId: 79888
+isTestnet: true
+name: crynuxonnear
+nativeToken:
+  decimals: 18
+  name: Crynux
+  symbol: CNX
+protocol: ethereum
+rpcUrls:
+  - http: https://json-rpc.testnet-near.crynux.io
+technicalStack: other
