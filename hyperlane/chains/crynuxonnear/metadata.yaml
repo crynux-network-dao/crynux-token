@@ -10,5 +10,5 @@ nativeToken:
   symbol: CNX
 protocol: ethereum
 rpcUrls:
-  - http: https://json-rpc.testnet-near.crynux.io
+  - http: https://rpc-0x4e454166.aurora-cloud.dev
 technicalStack: other
